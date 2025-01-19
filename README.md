@@ -1,4 +1,5 @@
-# house-prices-prediction
+# Ghana house prices prediction
+
 Ghana rental house price prediction using machine learning
 
 Dataset: [https://www.kaggle.com/datasets/epigos/ghana-house-rental-dataset/](https://www.kaggle.com/datasets/epigos/ghana-house-rental-dataset/)
